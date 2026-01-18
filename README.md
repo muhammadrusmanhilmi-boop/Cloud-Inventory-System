@@ -45,7 +45,7 @@ In compliance with OWASP Top 10 and ASVS requirements, the following security fe
   
 #### 1.Clone the project:
 ```bash
-git clone [https://github.com/azimsyafawi04/secure-task-app-ssd-project.git](https://github.com/azimsyafawi04/secure-task-app-ssd-project.git)
+git clone https://github.com/muhammadrusmanhilmi-boop/Cloud-Inventory-System.git
 ```
 #### 2.Set up Virtual Environment
 ```bash 
